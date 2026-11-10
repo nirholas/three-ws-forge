@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-forge",
+  "version": "0.2.1",
+  "description": "Generate textured 3D GLB models from text, images or sketches and auto-rig them with the three.ws Forge SDK.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/three-ws-forge",
+  "license": "Apache-2.0",
+  "keywords": [
+    "3d",
+    "glb",
+    "text-to-3d",
+    "rigging",
+    "sdk",
+    "x402"
+  ],
+  "homepage": "https://nirholas.github.io/three-ws-forge/"
+}
