@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/three-ws-forge",
+  "homepage": "https://nirholas.github.io/three-ws-forge/",
   "license": "Apache-2.0",
   "keywords": [
     "3d",
@@ -14,6 +15,5 @@
     "rigging",
     "sdk",
     "x402"
-  ],
-  "homepage": "https://nirholas.github.io/three-ws-forge/"
+  ]
 }

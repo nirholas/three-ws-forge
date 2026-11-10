@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-forge",
-      "source": "./",
+      "source": "./plugins/three-ws-forge",
       "description": "Generate textured 3D GLB models from text, images or sketches and auto-rig them with the three.ws Forge SDK.",
+      "category": "development",
       "tags": [
         "3d",
         "glb",
